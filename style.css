@@ -1,0 +1,13 @@
+.name{
+    font-family:"Yu Gothic UI";
+    
+}
+.radius{
+    border-radius: 50em;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
